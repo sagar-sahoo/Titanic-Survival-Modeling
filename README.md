@@ -1,5 +1,10 @@
 # Titanic-Survival-Modeling
 
+This is the legendary Titanic ML Dataset – the ideal dataset to dive into ML  and familiarize yourself with ML Case Studies.
+
+The Problem Statement is simple: use machine learning to create an efficient Model that predicts which passengers survived the Titanic shipwreck.
+
+
 Goal for this Notebook:
 
 Analysis and Application of Advanced Machine Learning Algorithms for Survival Prediction of Titanic.
